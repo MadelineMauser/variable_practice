@@ -13,3 +13,13 @@ in_bank = 1205.07
 awake = true
 hungry = true
 sleepy = false
+
+month = "July"
+first_name = "David"
+birth_month = "March"
+
+puts month
+
+puts shrimp
+
+puts hungry
